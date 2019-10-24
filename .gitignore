@@ -2,3 +2,5 @@ classes/*
 target/*
 .cpcache/*
 .datomic-ions/*
+ion-starter.iml
+.idea/
